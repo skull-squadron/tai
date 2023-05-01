@@ -45,3 +45,7 @@ git clone https://github.com/steakknife/tai
 cd tai
 make check
 ```
+
+## License
+
+MIT
