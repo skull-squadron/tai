@@ -1,3 +1,8 @@
+![tag](https://img.shields.io/github/v/tag/steakknife/tai)
+![license](https://img.shields.io/github/license/steakknife/tai)
+![issues](https://img.shields.io/github/issues/steakknife/tai)
+![build](https://img.shields.io/github/actions/workflow/status/steakknife/tai/crystal.yml)
+
 # TAI for Crystal
 
 ## Purpose
