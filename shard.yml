@@ -1,0 +1,15 @@
+name: tai
+version: 0.1.0
+
+authors:
+   - Barry Allard
+
+description: |
+  TAI extensions to Time
+
+development_dependencies:
+  spectator:
+    gitlab: arctic-fox/spectator
+    version: ~> 0.11.0
+
+license: MIT
