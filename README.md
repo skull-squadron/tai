@@ -38,7 +38,9 @@ dependencies:
     version: ~> 0.1.0
 ```
 
-## Documentation
+## [Documentation](https://steakknife.github.io/tai/)
+
+### Local documentation
 
 ```
 make doc # creates ./docs
