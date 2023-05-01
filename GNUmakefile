@@ -19,3 +19,6 @@ spec: $(SPECS) $(SOURCES)
 watch: watchman
 watchman:
 	$(WATCHMAN_MAKE) $(WATCHFLAGS)
+
+doc: $(SOURCES)
+	$(CRYSTAL) docs

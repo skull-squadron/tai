@@ -38,6 +38,12 @@ dependencies:
     version: ~> 0.1.0
 ```
 
+## Documentation
+
+```
+make doc # creates ./docs
+```
+
 ## Test
 
 ```
